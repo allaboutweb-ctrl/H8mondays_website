@@ -369,7 +369,7 @@ const Menu = ({ onMenuStateChange }) => {
                   navigateTo("/");
                 }}
               >
-                <h1>index,</h1>
+                <h1>index123,</h1>
               </a>
             </div>
             <div className="revealer">
